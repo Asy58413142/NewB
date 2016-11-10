@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewB.iml" filepath="$PROJECT_DIR$/NewB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recyclerview优雅的显示不同item/Recyclerview优雅的显示不同item.iml" filepath="$PROJECT_DIR$/Recyclerview优雅的显示不同item/Recyclerview优雅的显示不同item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android6应用程序权限管理/android6应用程序权限管理.iml" filepath="$PROJECT_DIR$/android6应用程序权限管理/android6应用程序权限管理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databindingdemo/databindingdemo.iml" filepath="$PROJECT_DIR$/databindingdemo/databindingdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlindemo/kotlindemo.iml" filepath="$PROJECT_DIR$/kotlindemo/kotlindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pintudemo/pintudemo.iml" filepath="$PROJECT_DIR$/pintudemo/pintudemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifi传图微架构/wifi传图微架构.iml" filepath="$PROJECT_DIR$/wifi传图微架构/wifi传图微架构.iml" />
+    </modules>
+  </component>
+</project>

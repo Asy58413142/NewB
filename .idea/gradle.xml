@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Androidstudio\android-studio1\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Recyclerview优雅的显示不同item" />
+            <option value="$PROJECT_DIR$/android6应用程序权限管理" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/databindingdemo" />
+            <option value="$PROJECT_DIR$/kotlindemo" />
+            <option value="$PROJECT_DIR$/pintudemo" />
+            <option value="$PROJECT_DIR$/slidingmenu" />
+            <option value="$PROJECT_DIR$/wifi传图微架构" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

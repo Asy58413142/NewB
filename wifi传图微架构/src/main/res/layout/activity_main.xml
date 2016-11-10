@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        >
+
+    <data>
+
+        <variable
+                name="NumData"
+                type="q.wifi.NumData"/>
+
+        <variable
+                name="Presenter"
+                type="q.wifi.MainActivity.presenter"/>
+    </data>
+
+    <LinearLayout
+            android:id="@+id/activity_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="请输入第一个数字"
+                android:padding="6dp"
+                android:text="@={NumData.num1}"/>
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="请输入第二个数字"
+                android:padding="6dp"
+                android:text="@={NumData.num2}"/>
+        <Button
+                android:layout_width="match_parent"
+                android:text="计算"
+                android:padding="6dp"
+                android:onClick="@{()->Presenter.onStartAdd(NumData.num1,NumData.num2)}"
+                style="?attr/buttonBarNeutralButtonStyle"
+                android:layout_height="wrap_content"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@={NumData.result}"/>
+    </LinearLayout>
+
+</layout>

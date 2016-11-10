@@ -1,0 +1,1 @@
+include ':app', ':kotlindemo', ':Recyclerview优雅的显示不同item', ':android6应用程序权限管理', ':databindingdemo', ':slidingmenu', ':pintudemo', ':wifi传图微架构'
